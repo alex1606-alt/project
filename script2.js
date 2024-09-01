@@ -85,7 +85,7 @@ console.log(`длина кузова = ${lengthCuzov} и ширина кузов
 
 
 
-let z = 10;
+let z = 5;
 let y = 15;
 
 z++;
